@@ -1,6 +1,6 @@
 Front End UI for requesting the resume details by id and name & to also upload the details of the resume.
 
-![image](https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/55c04136-2997-4a9e-9305-70c44d6746e6)
+![image](https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/55c04136-2997-4a9e-9305-70c44d6746e6) 
 
 
 
