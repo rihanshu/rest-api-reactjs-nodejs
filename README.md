@@ -1,3 +1,14 @@
+                                                                      RESUMES UPLOADING & FETCHING 
+1) Clone the repository
+2) After cloning, you navigate to the project's root directory and run: npm install.
+3) This command reads the package.json file and installs all the project's dependencies.
+4) It creates the node_modules directory and populates it with the required packages.
+5) Now navigate to the project folder in command prompt and type "node index.js" to start the server at port 8080.
+6) Now in another terminal navigate to the resume-frontend folder and type command "npm start". This will start the React Application.
+7) Below are some Snapshots of the project.
+
+
+
 Front End UI for requesting the resume details by id and name & to also upload the details of the resume.
 
 ![Screenshot (20)](https://github.com/rihanshu/rest-api-reactjs-nodejs/assets/37378354/d769feb7-6be0-4a4e-859d-5b546b0cae9e)
