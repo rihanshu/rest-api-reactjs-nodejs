@@ -1,6 +1,7 @@
 Front End UI for requesting the resume details by id and name & to also upload the details of the resume.
 
-![image](https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/55c04136-2997-4a9e-9305-70c44d6746e6) 
+![Screenshot (20)](https://github.com/rihanshu/rest-api-reactjs-nodejs/assets/37378354/d769feb7-6be0-4a4e-859d-5b546b0cae9e)
+
 
 
 
@@ -8,7 +9,8 @@ Front End UI for requesting the resume details by id and name & to also upload t
 
 Retrive the details of the resume with resume ID.
 
-<img width="600" alt="image" src="https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/477c3ac5-8cb3-49ef-8ccb-e533fd239e72">
+<img width="600" alt="Screenshot 2023-12-19 175701" src="https://github.com/rihanshu/rest-api-reactjs-nodejs/assets/37378354/60e24760-47bc-4a11-8ab2-24e31645b847">
+
 
 
 
@@ -16,8 +18,10 @@ Retrive the details of the resume with resume ID.
 
 Retrive the details of the resume with resume Name.
 
-<img width="600" alt="image" src="https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/e143f71b-ac5f-4594-8e0b-f5388372b86f">
-<img width="600" alt="image" src="https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/4ac432ab-7757-4268-881a-5195c718b877">
+<img width="600" alt="Screenshot 2023-12-19 175939" src="https://github.com/rihanshu/rest-api-reactjs-nodejs/assets/37378354/3a42fd3c-53d9-44a8-a62d-3c7fde135ed8">
+
+<img width="600" alt="Screenshot 2023-12-19 180007" src="https://github.com/rihanshu/rest-api-reactjs-nodejs/assets/37378354/f550518e-2150-409f-8c54-8c9d193b219d">
+
 
 
 
@@ -25,7 +29,12 @@ Retrive the details of the resume with resume Name.
 
 Upload Resume Details
 
-<img width="600" alt="image" src="https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/28a0883e-b00e-4370-83d1-d624095cf5de">
-<img width="600" alt="image" src="https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/8cf59c8a-3e5e-4f80-9d6d-7a734c726c3a">
+<img width="600" alt="Screenshot 2023-12-19 180140" src="https://github.com/rihanshu/rest-api-reactjs-nodejs/assets/37378354/ec5d5bda-e7cd-461f-91fa-e683223f138c">
 
-<img width="600" alt="image" src="https://github.com/rihanshu/REST-react-nodejs-exp-sql/assets/37378354/6cd69554-1303-44c1-b9bd-94a5d1b60dbc">
+
+<img width="600" alt="Screenshot 2023-12-19 180212" src="https://github.com/rihanshu/rest-api-reactjs-nodejs/assets/37378354/bbdc22bd-729a-4afe-95b7-2138bb1de14a">
+
+
+
+<img width="600" alt="Screenshot 2023-12-19 180244" src="https://github.com/rihanshu/rest-api-reactjs-nodejs/assets/37378354/feb7df98-062d-4d0d-81d9-bcd87ee481a1">
+
