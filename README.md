@@ -1,4 +1,4 @@
-                                                                      RESUMES UPLOADING & FETCHING 
+                                                            RESUMES UPLOADING & FETCHING 
 1) Clone the repository
 2) After cloning, you navigate to the project's root directory and run: npm install.
 3) This command reads the package.json file and installs all the project's dependencies.
